@@ -1,3 +1,7 @@
 ### Ignore arquivos executaveis do C++
 
 *.exe
+
+### Ignore pasta de configurações do vscode
+
+.vscode/
